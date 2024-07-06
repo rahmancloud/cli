@@ -1,0 +1,1 @@
+aws ec2 authorize-security-group-ingress --group-id sg-00cc1d3f4d2c2b54e --protocol tcp --port 22 --cidr 0.0.0.0/0
